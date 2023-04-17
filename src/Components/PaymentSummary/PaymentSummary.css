@@ -1,0 +1,53 @@
+.paymentContainer {
+    background: rgba(255, 153, 0, 0.3);
+    margin-top: 50px;
+    position: sticky;
+    top: 20px;
+    padding: 25px 0;
+    border: 5px;
+    box-sizing: border-box;
+}
+
+.paymentContainer h5 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+    text-align: center;
+    margin: 0;
+}
+
+.paymentSummary {
+    padding-left: 25px;
+}
+
+.paymentSummary p {
+    margin-top: 25px;
+}
+
+.paymentSummary h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    margin: 25px 0 0 0;
+}
+
+.clearBtn {
+    width: 95%;
+    margin-top: 10px;
+    background: #FF3030;
+    border-radius: 4px;
+    height: 56px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+    align-items: center;
+    color: white;
+}
